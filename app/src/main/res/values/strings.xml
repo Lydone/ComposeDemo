@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Demo</string>
+    <string name="error">Что-то пошло не так</string>
+    <string name="button_repeat">Повторить</string>
+</resources>
